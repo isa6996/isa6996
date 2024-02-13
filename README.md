@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Isabel Barroso and this is my Portfolio
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/isabel-barroso-7662b51ba)
+
 [![gitlab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/isa6996)
+
 [![gitlab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/projecterp_grup4) **(project 2 ERP)**
 
 
