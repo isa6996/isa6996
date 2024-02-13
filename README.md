@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Isabel Barroso and this is my Portfolio
+
 
 <!--
+cosas que poner:
+
+Pequeña presentación
+https://es.linkedin.com/in/isabel-barroso-7662b51ba
+gitlab?
+gitlab del cole
+lenguajes y todo eso
+
+
+
 **isa6996/isa6996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
