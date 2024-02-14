@@ -1,16 +1,20 @@
 ### Hi there 👋 I'm Isabel Barroso and this is my Portfolio
 
+You can find me on these pages:
+
+- My linkedIn:   
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/isabel-barroso-7662b51ba)
 
-[![gitlab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/isa6996)
+- Gitlab:   
+[![gitlab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)]([https://gitlab.com/projecterp_grup4](https://gitlab.com/projecterp_grup4/erp_project_grup4)) **&#8592;(project 2 ERP)**
 
-[![gitlab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/projecterp_grup4) **&#8592;(project 2 ERP)**
+Programs used:
 
-*IDE*
+- *IDE*
 
 [![Apache NetBeans Logo](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)](https://netbeans.apache.org/)
 
-*Languages*
+- *Languages*
 
 [![MySQL Logo](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
@@ -27,6 +31,7 @@
 
 <!--
 cosas que poner:
+[![gitlab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/isa6996)
 
 Pequeña presentación
 https://es.linkedin.com/in/isabel-barroso-7662b51ba
