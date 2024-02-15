@@ -6,7 +6,7 @@ You can find me on these pages:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/isabel-barroso-7662b51ba)
 
 - Gitlab:   
-[![gitlab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)]([https://gitlab.com/projecterp_grup4](https://gitlab.com/projecterp_grup4/erp_project_grup4)) **&#8592;(project 2 ERP)**
+[![gitlab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/projecterp_grup4/erp_project_grup4) **&#8592;(project 2 ERP)**
 
 Programs used:
 
